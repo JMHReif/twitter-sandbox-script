@@ -1,0 +1,5 @@
+Twitter Sandbox Script
+
+Created a script for working with the Retool demo application that requires some updates to the data in the Twitter sandbox to enrich the existing data set.
+
+You can execute this script or copy/paste the content into Neo4j Browser.
